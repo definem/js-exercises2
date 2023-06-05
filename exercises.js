@@ -55,7 +55,7 @@
 //   }
 // }
 
-// <---- Exercise-5  makes10 ---->
+// <---- Exercise-6  makes10 ---->
 
 // function makes10(a, b) {
 //   let res = a + b;
@@ -64,4 +64,11 @@
 //   } else {
 //     return false;
 //   }
+// }
+
+// <---- Exercise-7  nearHundred ---->
+
+// function nearHundred(n) {
+//   if ((n >= 90 && n <= 110) || (n >= 190 && n <= 210)) return true;
+//   return false;
 // }
