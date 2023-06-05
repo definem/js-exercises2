@@ -55,3 +55,13 @@
 //   }
 // }
 
+// <---- Exercise-5  makes10 ---->
+
+// function makes10(a, b) {
+//   let res = a + b;
+//   if (a == 10 || b == 10 || res == 10) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
