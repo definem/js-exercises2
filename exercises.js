@@ -33,3 +33,14 @@
 //     return (a + b) * 2;
 //   }
 // }
+
+// <---- Exercise-4  diff21 ---->
+
+// function diff21(n) {
+//   if (n < 21) {
+//     return 21 - n;
+//   } else {
+//     let answer = n - 21;
+//     return answer * 2;
+//   }
+// }
