@@ -44,3 +44,14 @@
 //     return answer * 2;
 //   }
 // }
+
+// <---- Exercise-5  parrotTrouble ---->
+
+// function parrotTrouble(talking, hour) {
+//   if (talking == true && (hour < 7 || hour > 20)) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
