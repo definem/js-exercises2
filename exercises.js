@@ -86,3 +86,12 @@
 //     return false;
 //   }
 // }
+
+// <---- Exercise-9  notString ---->
+
+// function notString(str) {
+//   if (str.startsWith("not")) {
+//     return str;
+//   }
+//   return "not " + str;
+// }
