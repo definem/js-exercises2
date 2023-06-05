@@ -95,3 +95,18 @@
 //   }
 //   return "not " + str;
 // }
+
+// <---- Exercise-10 and 11 (missingChar andfrontBack didn't get ---->
+
+// <---- Exercise-12  front3 ---->
+
+// function front3(str){
+//   let string = front;
+  
+//   if (str.length() <=3)
+//     front = str;
+//   else {
+//     front = str.substring(0,3);
+//   }
+//   return front+front+front;
+// }
