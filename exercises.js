@@ -72,3 +72,17 @@
 //   if ((n >= 90 && n <= 110) || (n >= 190 && n <= 210)) return true;
 //   return false;
 // }
+
+// <---- Exercise-8  posNeg ---->
+
+// function posNeg(a, b, negative) {
+//   if (a < 0 && b > 0 && negative == false) {
+//     return true;
+//   } else if (a > 0 && b < 0 && negative == false) {
+//     return true;
+//   } else if (a < 0 && b < 0 && negative == true) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
