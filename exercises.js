@@ -95,8 +95,10 @@
 //   }
 //   return "not " + str;
 // }
- 
+
 // <---- Exercise-10 and 11 (missingChar and frontBack didn't get ---->
+
+// herkes bitirdi ama ben hala bitirmedim 🥲 😭
 
 // <---- Exercise-12 and 13 (front3  and backAround  didn't get ---->
 
@@ -104,7 +106,7 @@
 
 // function front3(str){
 //   let string = front;
-  
+
 //   if (str.length() <=3)
 //     front = str;
 //   else {
@@ -132,13 +134,13 @@
 //   }
 // }
 
-// <---- Exercise-17  icyHot----> 
+// <---- Exercise-17  icyHot---->
 
 // function icyHot(temp1, temp2) {
 //   return (temp1 < 0 && temp2 > 100) || (temp1 > 100 && temp2 < 0);
 // }
 
-// <---- Exercise-18  in1020----> 
+// <---- Exercise-18  in1020---->
 
 // function in1020(a, b) {
 //   return (a >= 10 && a <= 20) || (b >= 10 && b <= 20);
@@ -159,6 +161,50 @@
 //   return (a >= 13 && a <= 19) || (b >= 13 && b <= 19);
 // }
 
+// < ---- Exercise-21  delDel ---- > chala
+
+// mantık gruptan ayrıldı.🤦🏻‍♀️
+// pes etme Muslima. sen yapabilirsin, frontend geliştiricisi olursun inşaAllah
+
+// Allah'ım yardım et 😿, bana güzel bir sabır ver.
+
+// function delDel(str){
+//   if (str.length() <= 3)
+//     return str;
+
+//     if ( ) {
+
+//     }
+// }
+
+// substring(firstIndex, lastIndex) bu method string'de olan rakamları
+// 'birinci index'den verilen sonuncusuna kadar' diye seçmek icin kullanılır
+
+// < ---- Exercise-22  mixStart ---- > chala 
+
+// yaaaaaaaaaaaaaa sinirlerim yeterince bozuldu😭 nasıl hallederim bunu ben 
+
+// function mixStart(str) {
+//   if (str.length() < 3) return false;
+//   return str.substring(1, 3).equals("ix");
+// }
+
+// < ---- Exercise-23  startOz ---- > 
+
+// function startOz(str) {
+//   let result = "";
+  
+//   if (str.length() >= 1 && str.charAt(0)=='o') {
+//     result = result + str.charAt(0);
+//   }
+  
+//   if (str.length() >= 2 && str.charAt(1)=='z') {
+//     result = result + str.charAt(1);
+//   }
+  
+//   return result;
+// }
+
 // <---- Exercise-26  in3050 ---->
 
 // function in3050(a, b) {
@@ -167,4 +213,3 @@
 //     (a >= 40 && a <= 50 && b >= 40 && b <= 50)
 //   );
 // }
-
