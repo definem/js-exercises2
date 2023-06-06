@@ -178,7 +178,7 @@
 // }
 
 // substring(firstIndex, lastIndex) bu method string'de olan rakamları
-// 'birinci index'den verilen sonuncusuna kadar' diye seçmek icin kullanılır
+// "birinci index'den verilen sonuncusuna kadar" diye seçmek icin kullanılır
 
 // < ---- Exercise-22  mixStart ---- > chala 
 
@@ -216,8 +216,8 @@
 
 /*
 
-Katta ustozni ham LeetCode dan bergan masalalari bor edi nechtadir,
-shulani ham ishlashim kere edi, ulgurish uchun bu exercise'larni faqat
+Katta ustozni ham LeetCode dan bergan masalalari bor edi nechtadir.
+Shulani ham ishlashim kere edi, ulgurish uchun bu exercise'larni faqat
 shuyogacha ishladim. Qolganlariyam qopketmidi yetqizib qo'yaman uniyam 
 In Shaa Alloh)...
 
