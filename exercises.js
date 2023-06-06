@@ -137,3 +137,9 @@
 // function icyHot(temp1, temp2) {
 //   return (temp1 < 0 && temp2 > 100) || (temp1 > 100 && temp2 < 0);
 // }
+
+// <---- Exercise-18  in1020----> 
+
+// function in1020(a, b) {
+//   return (a >= 10 && a <= 20) || (b >= 10 && b <= 20);
+// }
