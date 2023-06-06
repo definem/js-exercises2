@@ -95,10 +95,12 @@
 //   }
 //   return "not " + str;
 // }
+ 
+// <---- Exercise-10 and 11 (missingChar and frontBack didn't get ---->
 
-// <---- Exercise-10 and 11 (missingChar andfrontBack didn't get ---->
+// <---- Exercise-12 and 13 (front3  and backAround  didn't get ---->
 
-// <---- Exercise-12  front3 ---->
+// <---- Exercise-13  front3 ---->
 
 // function front3(str){
 //   let string = front;
@@ -111,9 +113,21 @@
 //   return front+front+front;
 // }
 
-// <---- Exercise-13 ---->
+// <---- Exercise-14  or35---->
 
 // function or35(n) {
 //   if (n % 3 == 0 || n % 5 == 0) return true;
 //   return false;
+// }
+
+// <---- Exercise-15  front22 skipped---->
+
+// <---- Exercise-16  startHi---->
+
+// function startHi(str) {
+//   if (str.startsWith("hi")) {
+//     return true;
+//   } else {
+//     return false;
+//   }
 // }
