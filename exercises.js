@@ -150,6 +150,15 @@
 //   return (a >= 13 && a <= 19) || (b >= 13 && b <= 19) || (c >= 13 && c <= 19);
 // }
 
+// < ---- Exercise-20  loneTeen ---- >
+
+// function loneTeen(a, b) {
+//   if (a >= 13 && a <= 19 && b >= 13 && b <= 19) {
+//     return false;
+//   }
+//   return (a >= 13 && a <= 19) || (b >= 13 && b <= 19);
+// }
+
 // <---- Exercise-26  in3050 ---->
 
 // function in3050(a, b) {
