@@ -166,7 +166,7 @@
 // mantık gruptan ayrıldı.🤦🏻‍♀️
 // pes etme Muslima. sen yapabilirsin, frontend geliştiricisi olursun inşaAllah
 
-// Allah'ım yardım et 😿, bana güzel bir sabır ver.
+// Allah'ım yardım et 😿, sabır yaaa sabır
 
 // function delDel(str){
 //   if (str.length() <= 3)
