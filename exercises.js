@@ -217,7 +217,7 @@
 /*
 
 Katta ustozni ham LeetCode dan bergan masalalari bor edi nechtadir,
-shulani ham ishlashim kere edi, ulgurish uchun bu codelani faqat
+shulani ham ishlashim kere edi, ulgurish uchun bu exercise'larni faqat
 shuyogacha ishladim. Qolganlariyam qopketmidi yetqizib qo'yaman uniyam 
 In Shaa Alloh)...
 
