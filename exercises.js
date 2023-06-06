@@ -213,3 +213,12 @@
 //     (a >= 40 && a <= 50 && b >= 40 && b <= 50)
 //   );
 // }
+
+/*
+
+Katta ustozni ham LeetCode dan bergan masalalari bor edi nechtadir,
+shulani ham ishlashim kere edi, ulgurish uchun bu codelani faqat
+shuyogacha ishladim. Qolganlariyam qopketmidi yetqizib qo'yaman uniyam 
+In Shaa Alloh)...
+
+*/
